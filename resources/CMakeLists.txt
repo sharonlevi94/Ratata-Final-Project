@@ -1,0 +1,63 @@
+﻿#game texturs
+configure_file ("CooperBlackStd.otf" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("player.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("exterminator.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("scooter.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("dynamicFloor.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("road.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("adanitKahol.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("adanitSagol.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("adanitKatom.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("burger.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("banana.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("pizza.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("watermelon.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("apple.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("trashBlue.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("portalTrash.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("trashRed.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("life.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Exit.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ("winGame.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("loseGame.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("winPage.png" ${CMAKE_BINARY_DIR} COPYONLY)
+#levels file
+configure_file ("Levels.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+#menu files
+configure_file ("MenuBackground.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("menuMusic.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+
+
+configure_file ("Back.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Hi Score.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Info.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("New Game.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("High Score Menu.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("MainMenuBackground.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("CreditsButton.png" ${CMAKE_BINARY_DIR} COPYONLY)
+
+
+configure_file ("Credits.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Help.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+
+#music files
+configure_file ("Back.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("EatFood.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("EatToxic.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("EnemyEat.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("MainMenu.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("GameTheme.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("HiScore.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("TimeEnd.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("WonGame.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Life1up.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("LostGame.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("InfoMenu.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("EatSpecialFood.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Credits.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+
+configure_file ("Level2Music.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Level3Music.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Level4Music.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Level5Music.ogg" ${CMAKE_BINARY_DIR} COPYONLY)
